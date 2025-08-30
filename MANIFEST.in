@@ -1,0 +1,10 @@
+# 包含 README.md 文件
+include README.md
+# 包含 requirements.txt 文件
+include requirements.txt
+# 包含 example_requirements.txt 文件
+include example_requirements.txt
+# 包含 LICENSE 文件
+include LICENSE
+# 递归包含 pyreqver 目录下的所有 .py 文件
+recursive-include pyreqver *.py
