@@ -21,7 +21,7 @@ PyReqVer 是一个命令行工具，帮助您找到支持您 requirements.txt �
    pip install -r requirements.txt
    ```
 
-### 使用 pip 安装（如果已发布）
+### 使用 pip 安装
 
 ```bash
 pip install pyreqver
