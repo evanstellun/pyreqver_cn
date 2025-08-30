@@ -12,9 +12,9 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'pyreqver'
-DESCRIPTION = ' A command-line tool that helps you find Python versions that support all libraries in your requirements.txt file'
-URL = 'https://github.com/evanstellun/pyreqver'
+NAME = 'pyreqver_cn'
+DESCRIPTION = ' 一个命令行工具，帮助您找到支持您 requirements.txt 文件中所有库的 Python 版本'
+URL = 'https://github.com/evanstellun/pyreqver_cn'
 EMAIL = 'niweilun@outlook.com'
 AUTHOR = 'Evanstellun'
 REQUIRES_PYTHON = '>=3.6.0'

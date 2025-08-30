@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+example_requirements.txt
+requirements.txt
+setup.py
+pyreqver/__init__.py
+pyreqver/main.py
+pyreqver_cn.egg-info/PKG-INFO
+pyreqver_cn.egg-info/SOURCES.txt
+pyreqver_cn.egg-info/dependency_links.txt
+pyreqver_cn.egg-info/entry_points.txt
+pyreqver_cn.egg-info/requires.txt
+pyreqver_cn.egg-info/top_level.txt

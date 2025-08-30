@@ -1,0 +1,2 @@
+[console_scripts]
+pyreqver = pyreqver.main:main
