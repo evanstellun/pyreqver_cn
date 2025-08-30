@@ -1,0 +1,78 @@
+# Email Service Requirements
+# Core email libraries
+smtplib
+email
+imaplib
+poplib
+
+# Email sending and receiving
+secure-smtplib>=0.2.0
+imapclient>=2.3.0
+mail-parser>=3.15.0
+
+# Email content processing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+html2text>=2020.1.16
+markdown>=3.4.0
+
+# Email template engines
+jinja2>=3.1.0
+mako>=1.2.0
+
+# Email security and encryption
+cryptography>=41.0.0
+pyopenssl>=23.2.0
+keyring>=24.2.0
+
+# Email automation
+imap-tools>=1.4.0
+yagmail>=0.15.280
+mailmerge>=3.3.0
+
+# Email API clients
+google-api-python-client>=2.95.0
+office365-rest-python-client>=2.4.2
+sendgrid>=6.10.0
+mailchimp-marketing>=3.0.0
+
+# Email validation and verification
+email-validator>=2.0.0
+py3-validate-email>=1.0.0
+
+# Email analytics
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Email server setup
+postfix>=3.6.0
+dovecot>=2.3.0
+
+# Email testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+mailcatcher>=0.8.2
+
+# Email storage and database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+pymongo>=4.4.0
+redis>=4.6.0
+
+# Email scheduling
+apscheduler>=3.10.0
+celery>=5.3.0
+
+# Email web interface
+flask>=2.3.0
+django>=4.2.0
+fastapi>=0.100.0
+
+# Email utilities and helpers
+requests>=2.31.0
+PyYAML>=6.0
+tqdm>=4.65.0
+click>=8.1.0
+python-dotenv>=1.0.0

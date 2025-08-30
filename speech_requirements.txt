@@ -1,0 +1,65 @@
+# Speech Recognition Requirements
+# Core audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+pyaudio>=0.2.11
+pydub>=0.25.1
+
+# Speech recognition
+SpeechRecognition>=3.10.0
+vosk>=0.3.45
+pocketsphinx>=5.0.0
+deeppavlov>=1.2.0
+
+# Speech synthesis
+gTTS>=2.3.2
+pyttsx3>=2.90
+amazon-transcribe>=1.0.0
+azure-cognitiveservices-speech>=1.31.0
+
+# Audio feature extraction
+python-speech-features>=0.6
+mfcc>=0.1.1
+opensmile>=2.3.0
+
+# Deep learning for audio
+torch-audio>=2.0.0
+tensorflow>=2.12.0
+keras>=2.13.0
+
+# Natural language processing for speech
+nltk>=3.8.0
+spacy>=3.5.0
+transformers>=4.30.0
+
+# Audio visualization and analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Audio augmentation
+audiomentations>=0.33.0
+noisereduce>=2.0.0
+
+# Voice activity detection
+webrtcvad>=2.0.10
+silero-vad>=1.0.0
+
+# Speaker diarization
+pyannote.audio>=3.1.0
+
+# Audio format conversion
+ffmpeg-python>=0.2.0
+pysox>=1.4.1
+
+# Audio datasets
+torch-audio>=0.13.0
+torchaudio>=2.0.0
+
+# Utilities and helpers
+numpy>=1.24.0
+scipy>=1.11.0
+pandas>=2.0.0
+tqdm>=4.65.0
+PyYAML>=6.0
+requests>=2.31.0

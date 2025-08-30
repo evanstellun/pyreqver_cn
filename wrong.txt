@@ -1,0 +1,74 @@
+# This requirements.txt contains incompatible package versions
+# These packages cannot be installed together due to version conflicts
+
+# Conflicting numpy versions
+numpy==1.18.0
+numpy>=1.24.0
+
+# Conflicting pandas versions
+pandas==1.0.0
+pandas>=2.0.0
+
+# Conflicting TensorFlow versions
+tensorflow==1.15.0
+tensorflow>=2.12.0
+
+# Conflicting PyTorch versions
+torch==1.0.0
+torch>=2.0.0
+
+# Conflicting scikit-learn versions
+scikit-learn==0.20.0
+scikit-learn>=1.3.0
+
+# Conflicting Django versions
+Django==2.0.0
+Django>=4.2.0
+
+# Conflicting Flask versions
+Flask==1.0.0
+Flask>=2.3.0
+
+# Conflicting matplotlib versions
+matplotlib==2.0.0
+matplotlib>=3.7.0
+
+# Conflicting requests versions
+requests==2.0.0
+requests>=2.31.0
+
+# Conflicting Pillow versions
+Pillow==5.0.0
+Pillow>=9.5.0
+
+# Conflicting OpenCV versions
+opencv-python==3.4.0
+opencv-python>=4.8.0
+
+# Conflicting Keras versions
+keras==2.0.0
+keras>=2.13.0
+
+# Conflicting SQLAlchemy versions
+SQLAlchemy==1.0.0
+SQLAlchemy>=2.0.0
+
+# Conflicting Beautiful Soup versions
+beautifulsoup4==4.0.0
+beautifulsoup4>=4.12.0
+
+# Conflicting PyYAML versions
+PyYAML==3.0.0
+PyYAML>=6.0
+
+# Conflicting scipy versions
+scipy==1.0.0
+scipy>=1.11.0
+
+# Conflicting seaborn versions
+seaborn==0.8.0
+seaborn>=0.12.0
+
+# Conflicting plotly versions
+plotly==3.0.0
+plotly>=5.15.0
